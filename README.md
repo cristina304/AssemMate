@@ -1,6 +1,6 @@
 # AssemMate
 
-The complete ICRA 2016 code will be released soon.  
+The complete ICRA 2026 code will be released soon.  
 
 Meanwhile, a demo is available. **Due to data confidentiality, only non-existent test data is provided.**  
 
