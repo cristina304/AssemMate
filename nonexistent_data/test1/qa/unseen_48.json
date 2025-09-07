@@ -1,0 +1,338 @@
+[
+    {
+        "input": "What does CVB0G_12_Operation1_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does CVB0G_12_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation1_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does CVB0G_12_Operation1_2 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "What does CVB0G_12_Operation1_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation1_2 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does CVB0G_12_Operation1_3 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does CVB0G_12_Operation1_3 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation1_3 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does CVB0G_12_Operation2_1 act on?",
+        "output": "Torque_Wrench"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does CVB0G_12_Operation2_2 act on?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "What does CVB0G_12_Operation2_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_2 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does CVB0G_12_Operation2_3 act on?",
+        "output": "Threaded_Plug"
+    },
+    {
+        "input": "What does CVB0G_12_Operation2_3 act to?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_3 have?",
+        "output": "fix"
+    },
+    {
+        "input": "What does CVB0G_12_Operation2_4 act on?",
+        "output": "Threaded_Plug"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation2_4 act at?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_4 have?",
+        "output": "torque"
+    },
+    {
+        "input": "What detail does CVB0G_12_Operation2_4 have?",
+        "output": "12-15NM"
+    },
+    {
+        "input": "What tool does CVB0G_12_Operation2_4 use?",
+        "output": "Torque_Wrench"
+    },
+    {
+        "input": "What does CVB0G_12_Operation2_5 act on?",
+        "output": "Threaded_Plug"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation2_5 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_5 have?",
+        "output": "place"
+    },
+    {
+        "input": "What type does Threaded_Plug have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Spring have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Steel_Ball have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Hex_Key_Wrench have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Torque_Wrench have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does CVB0G_12_Step1 have?",
+        "output": "Sealant_even,_no_overflow"
+    },
+    {
+        "input": "Which operations are included in CVB0G_12_Step1?",
+        "output": "CVB0G_12_Operation1_1, CVB0G_12_Operation1_2, CVB0G_12_Operation1_3"
+    },
+    {
+        "input": "What operations are included in CVB0G_12_Step2?",
+        "output": "CVB0G_12_Operation2_1, CVB0G_12_Operation2_2, CVB0G_12_Operation2_3, CVB0G_12_Operation2_4, CVB0G_12_Operation2_5"
+    },
+    {
+        "input": "What operation comes next after CVB0G_12_Operation1_1?",
+        "output": "CVB0G_12_Operation1_2"
+    },
+    {
+        "input": "What operation follows CVB0G_12_Operation1_2?",
+        "output": "CVB0G_12_Operation1_3"
+    },
+    {
+        "input": "Which operation is after CVB0G_12_Operation2_1?",
+        "output": "CVB0G_12_Operation2_2"
+    },
+    {
+        "input": "What operation comes next after CVB0G_12_Operation2_2?",
+        "output": "CVB0G_12_Operation2_3"
+    },
+    {
+        "input": "Which operation follows CVB0G_12_Operation2_3?",
+        "output": "CVB0G_12_Operation2_4"
+    },
+    {
+        "input": "What operation comes after CVB0G_12_Operation2_4?",
+        "output": "CVB0G_12_Operation2_5"
+    },
+    {
+        "input": "Which step is next after CVB0G_12_Step1?",
+        "output": "CVB0G_12_Step2"
+    },
+    {
+        "input": "Which object does CVB0G_12_Operation1_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation1_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which object does CVB0G_12_Operation1_2 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation1_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation1_2 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which object does CVB0G_12_Operation1_3 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation1_3 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation1_3 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which object does CVB0G_12_Operation2_1 act on?",
+        "output": "Torque_Wrench"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which object does CVB0G_12_Operation2_2 act on?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation2_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_2 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which object does CVB0G_12_Operation2_3 act on?",
+        "output": "Threaded_Plug"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation2_3 act to?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_3 have?",
+        "output": "fix"
+    },
+    {
+        "input": "Which object does CVB0G_12_Operation2_4 act on?",
+        "output": "Threaded_Plug"
+    },
+    {
+        "input": "At which location does CVB0G_12_Operation2_4 act?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_4 have?",
+        "output": "torque"
+    },
+    {
+        "input": "What detail does CVB0G_12_Operation2_4 have?",
+        "output": "12-15NM"
+    },
+    {
+        "input": "Which tool does CVB0G_12_Operation2_4 use?",
+        "output": "Torque_Wrench"
+    },
+    {
+        "input": "Which object does CVB0G_12_Operation2_5 act on?",
+        "output": "Threaded_Plug"
+    },
+    {
+        "input": "Where does CVB0G_12_Operation2_5 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does CVB0G_12_Operation2_5 have?",
+        "output": "place"
+    },
+    {
+        "input": "What type does Threaded_Plug have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Spring have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Steel_Ball have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Hex_Key_Wrench have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Torque_Wrench have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does CVB0G_12_Step1 have?",
+        "output": "Sealant_even,_no_overflow"
+    },
+    {
+        "input": "Which operations are included in CVB0G_12_Step1?",
+        "output": "CVB0G_12_Operation1_1, CVB0G_12_Operation1_2, CVB0G_12_Operation1_3"
+    },
+    {
+        "input": "Which operations are included in CVB0G_12_Step2?",
+        "output": "CVB0G_12_Operation2_1, CVB0G_12_Operation2_2, CVB0G_12_Operation2_3, CVB0G_12_Operation2_4, CVB0G_12_Operation2_5"
+    },
+    {
+        "input": "What is the next operation after CVB0G_12_Operation1_1?",
+        "output": "CVB0G_12_Operation1_2"
+    },
+    {
+        "input": "What is the next operation after CVB0G_12_Operation1_2?",
+        "output": "CVB0G_12_Operation1_3"
+    },
+    {
+        "input": "What is the next operation after CVB0G_12_Operation2_1?",
+        "output": "CVB0G_12_Operation2_2"
+    },
+    {
+        "input": "What is the next operation after CVB0G_12_Operation2_2?",
+        "output": "CVB0G_12_Operation2_3"
+    },
+    {
+        "input": "What is the next operation after CVB0G_12_Operation2_3?",
+        "output": "CVB0G_12_Operation2_4"
+    },
+    {
+        "input": "What is the next operation after CVB0G_12_Operation2_4?",
+        "output": "CVB0G_12_Operation2_5"
+    },
+    {
+        "input": "What is the next step after CVB0G_12_Step1?",
+        "output": "CVB0G_12_Step2"
+    }
+]

@@ -1,0 +1,454 @@
+[
+    {
+        "input": "What does HTRV16M_B0A_Operation1_1 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation1_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation3_1 act on?",
+        "output": "Valve_Sleeve"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation3_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation3_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation5_1 act on?",
+        "output": "Base"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation5_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation5_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation6_1 act on?",
+        "output": "Base"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation6_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation6_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation7_1 act on?",
+        "output": "Valve_Sleeve"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation7_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation7_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation7_2 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation7_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation7_2 have?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Base?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Sleeve?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation2_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation2_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation4_1 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation4_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation4_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Adjusting_Rod?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation8_1 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation8_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation8_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation8_2 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "Where does HTRV16M_B0A_Operation8_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation8_2 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV16M_B0A_Operation8_3 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action does HTRV16M_B0A_Operation8_3 have?",
+        "output": "apply"
+    },
+    {
+        "input": "What detail does HTRV16M_B0A_Operation8_3 have?",
+        "output": "external_thread"
+    },
+    {
+        "input": "What tool does HTRV16M_B0A_Operation8_3 use?",
+        "output": "Threadlocker"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Threadlocker?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTRV16M_B0A_Step2 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "Which operations does HTRV16M_B0A_Step1 have?",
+        "output": "HTRV16M_B0A_Operation1_1"
+    },
+    {
+        "input": "Which operations does HTRV16M_B0A_Step2 have?",
+        "output": "HTRV16M_B0A_Operation2_1"
+    },
+    {
+        "input": "Which operations does HTRV16M_B0A_Step3 have?",
+        "output": "HTRV16M_B0A_Operation3_1"
+    },
+    {
+        "input": "Which operations does HTRV16M_B0A_Step4 have?",
+        "output": "HTRV16M_B0A_Operation4_1"
+    },
+    {
+        "input": "Which operations does HTRV16M_B0A_Step5 have?",
+        "output": "HTRV16M_B0A_Operation5_1"
+    },
+    {
+        "input": "Which operations does HTRV16M_B0A_Step6 have?",
+        "output": "HTRV16M_B0A_Operation6_1"
+    },
+    {
+        "input": "Which operations does HTRV16M_B0A_Step7 have?",
+        "output": "HTRV16M_B0A_Operation7_1, HTRV16M_B0A_Operation7_2"
+    },
+    {
+        "input": "Which operations does HTRV16M_B0A_Step8 have?",
+        "output": "HTRV16M_B0A_Operation8_1, HTRV16M_B0A_Operation8_2, HTRV16M_B0A_Operation8_3"
+    },
+    {
+        "input": "What is the next operation after HTRV16M_B0A_Operation7_1?",
+        "output": "HTRV16M_B0A_Operation7_2"
+    },
+    {
+        "input": "What is the next operation after HTRV16M_B0A_Operation8_1?",
+        "output": "HTRV16M_B0A_Operation8_2"
+    },
+    {
+        "input": "What is the next operation after HTRV16M_B0A_Operation8_2?",
+        "output": "HTRV16M_B0A_Operation8_3"
+    },
+    {
+        "input": "What is the next step after HTRV16M_B0A_Step1?",
+        "output": "HTRV16M_B0A_Step2"
+    },
+    {
+        "input": "What is the next step after HTRV16M_B0A_Step2?",
+        "output": "HTRV16M_B0A_Step3"
+    },
+    {
+        "input": "What is the next step after HTRV16M_B0A_Step3?",
+        "output": "HTRV16M_B0A_Step4"
+    },
+    {
+        "input": "What is the next step after HTRV16M_B0A_Step4?",
+        "output": "HTRV16M_B0A_Step5"
+    },
+    {
+        "input": "What is the next step after HTRV16M_B0A_Step5?",
+        "output": "HTRV16M_B0A_Step6"
+    },
+    {
+        "input": "What is the next step after HTRV16M_B0A_Step6?",
+        "output": "HTRV16M_B0A_Step7"
+    },
+    {
+        "input": "What is the next step after HTRV16M_B0A_Step7?",
+        "output": "HTRV16M_B0A_Step8"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation1_1 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation1_1 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation3_1 act on?",
+        "output": "Valve_Sleeve"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation3_1 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation3_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation5_1 act on?",
+        "output": "Base"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation5_1 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation5_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation6_1 act on?",
+        "output": "Base"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation6_1 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation6_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation7_1 act on?",
+        "output": "Valve_Sleeve"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation7_1 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation7_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation7_2 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation7_2 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation7_2?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Base?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Sleeve?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation2_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation2_1 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation4_1 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation4_1 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation4_1?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Adjusting_Rod?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation8_1 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation8_1 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation8_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation8_2 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation8_2 act towards?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV16M_B0A_Operation8_2?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV16M_B0A_Operation8_3 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What is the action of HTRV16M_B0A_Operation8_3?",
+        "output": "apply"
+    },
+    {
+        "input": "What detail does HTRV16M_B0A_Operation8_3 have?",
+        "output": "external_thread"
+    },
+    {
+        "input": "Which tool is used in HTRV16M_B0A_Operation8_3?",
+        "output": "Threadlocker"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Threadlocker?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTRV16M_B0A_Step2 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "Which operations are included in HTRV16M_B0A_Step1?",
+        "output": "HTRV16M_B0A_Operation1_1"
+    },
+    {
+        "input": "Which operation follows HTRV16M_B0A_Operation7_1?",
+        "output": "HTRV16M_B0A_Operation7_2"
+    },
+    {
+        "input": "Which operations are included in HTRV16M_B0A_Step2?",
+        "output": "HTRV16M_B0A_Operation2_1"
+    },
+    {
+        "input": "Which operation follows HTRV16M_B0A_Operation8_1?",
+        "output": "HTRV16M_B0A_Operation8_2"
+    },
+    {
+        "input": "Which operation follows HTRV16M_B0A_Operation8_2?",
+        "output": "HTRV16M_B0A_Operation8_3"
+    },
+    {
+        "input": "Which operations are included in HTRV16M_B0A_Step3?",
+        "output": "HTRV16M_B0A_Operation3_1"
+    },
+    {
+        "input": "Which operations are included in HTRV16M_B0A_Step4?",
+        "output": "HTRV16M_B0A_Operation4_1"
+    },
+    {
+        "input": "Which operations are included in HTRV16M_B0A_Step5?",
+        "output": "HTRV16M_B0A_Operation5_1"
+    },
+    {
+        "input": "Which operations are included in HTRV16M_B0A_Step6?",
+        "output": "HTRV16M_B0A_Operation6_1"
+    },
+    {
+        "input": "Which operations are included in HTRV16M_B0A_Step7?",
+        "output": "HTRV16M_B0A_Operation7_1, HTRV16M_B0A_Operation7_2"
+    },
+    {
+        "input": "Which operations are included in HTRV16M_B0A_Step8?",
+        "output": "HTRV16M_B0A_Operation8_1, HTRV16M_B0A_Operation8_2, HTRV16M_B0A_Operation8_3"
+    }
+]

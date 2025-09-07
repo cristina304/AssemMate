@@ -1,0 +1,1006 @@
+[
+    {
+        "input": "What does HTRV08U_01A_Operation1_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation1_2 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation1_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation1_2?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation1_3 act on?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation1_3 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation1_3?",
+        "output": "push"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation1_3?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation1_3 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What type is Plug?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation2_1 act on?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation2_1 act to?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation2_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation2_1?",
+        "output": "above"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation3_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation3_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation3_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation3_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation3_2 act to?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation3_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_1 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation4_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation4_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_3 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation4_3?",
+        "output": "insert"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation4_4?",
+        "output": "press"
+    },
+    {
+        "input": "Which tool does HTRV08U_01A_Operation4_4 use?",
+        "output": "Manual_Press"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation5_1 act on?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation5_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation5_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation5_2 act on?",
+        "output": "Threaded_Sleeve"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation5_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation5_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation6_1 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation6_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation6_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation6_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation6_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation6_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation7_1 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation7_1 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation7_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation7_1?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation7_2 act on?",
+        "output": "Dumbbell_Ring"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation7_2 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation7_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation8_1 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation8_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation8_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation8_2 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation8_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation8_2?",
+        "output": "place"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation8_3?",
+        "output": "apply"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation8_3?",
+        "output": "external_thread"
+    },
+    {
+        "input": "Which tool does HTRV08U_01A_Operation8_3 use?",
+        "output": "Threadlocker"
+    },
+    {
+        "input": "What type is Adjusting_Screw?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Threadlocker?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Main_Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Conical_Valve_Core?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Threaded_Sleeve?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step3 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step4 have?",
+        "output": "Core_must_not_jam_in_valve_seat"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step6 have?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step1?",
+        "output": "HTRV08U_01A_Operation1_1, HTRV08U_01A_Operation1_2, HTRV08U_01A_Operation1_3"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step2?",
+        "output": "HTRV08U_01A_Operation2_1"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step3?",
+        "output": "HTRV08U_01A_Operation3_1, HTRV08U_01A_Operation3_2"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step4?",
+        "output": "HTRV08U_01A_Operation4_1, HTRV08U_01A_Operation4_2, HTRV08U_01A_Operation4_3, HTRV08U_01A_Operation4_4"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step5?",
+        "output": "HTRV08U_01A_Operation5_1, HTRV08U_01A_Operation5_2"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step6?",
+        "output": "HTRV08U_01A_Operation6_1, HTRV08U_01A_Operation6_2"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step7?",
+        "output": "HTRV08U_01A_Operation7_1, HTRV08U_01A_Operation7_2"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step8?",
+        "output": "HTRV08U_01A_Operation8_1, HTRV08U_01A_Operation8_2, HTRV08U_01A_Operation8_3"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation1_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "What is the action of HTRV08U_01A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which part is affected by HTRV08U_01A_Operation1_2?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation1_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation1_2?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation1_3 act on?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "Which part is affected by HTRV08U_01A_Operation1_3?",
+        "output": "Plug"
+    },
+    {
+        "input": "What is the action in HTRV08U_01A_Operation1_3?",
+        "output": "push"
+    },
+    {
+        "input": "What detail is included in HTRV08U_01A_Operation1_3?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "Which part is used in HTRV08U_01A_Operation1_3?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What type is Plug?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation2_1 act on?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "Which part is affected by HTRV08U_01A_Operation2_1?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation2_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is given in HTRV08U_01A_Operation2_1?",
+        "output": "above"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation3_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation3_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is in HTRV08U_01A_Operation3_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation3_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation3_2 act to?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation3_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_1 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation4_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action of HTRV08U_01A_Operation4_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation4_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action in HTRV08U_01A_Operation4_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation4_3 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation4_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What is the action of HTRV08U_01A_Operation4_3?",
+        "output": "insert"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation4_4 have?",
+        "output": "press"
+    },
+    {
+        "input": "What part is acted upon in HTRV08U_01A_Operation4_4?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What tool does HTRV08U_01A_Operation4_4 use?",
+        "output": "Manual_Press"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation5_1 act on?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation5_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is in HTRV08U_01A_Operation5_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation5_2 act on?",
+        "output": "Threaded_Sleeve"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation5_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation5_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation6_1 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation6_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation6_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation6_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "Which part is affected by HTRV08U_01A_Operation6_2?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is in HTRV08U_01A_Operation6_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation7_1 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation7_1 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation7_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation7_1?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What part does HTRV08U_01A_Operation7_2 act on?",
+        "output": "Dumbbell_Ring"
+    },
+    {
+        "input": "Which part is affected by HTRV08U_01A_Operation7_2?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is in HTRV08U_01A_Operation7_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation8_1 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation8_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action of HTRV08U_01A_Operation8_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTRV08U_01A_Operation8_2 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "Which part is affected by HTRV08U_01A_Operation8_2?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation8_2?",
+        "output": "place"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation8_3 have?",
+        "output": "apply"
+    },
+    {
+        "input": "What detail is included in HTRV08U_01A_Operation8_3?",
+        "output": "external_thread"
+    },
+    {
+        "input": "What tool is used in HTRV08U_01A_Operation8_3?",
+        "output": "Threadlocker"
+    },
+    {
+        "input": "What type is Adjusting_Screw?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Threadlocker?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Main_Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Conical_Valve_Core?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Threaded_Sleeve?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step3 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step4 have?",
+        "output": "Core_must_not_jam_in_valve_seat"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step6 have?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step1?",
+        "output": "HTRV08U_01A_Operation1_1, HTRV08U_01A_Operation1_2, HTRV08U_01A_Operation1_3"
+    },
+    {
+        "input": "Which operation does HTRV08U_01A_Step2 have?",
+        "output": "HTRV08U_01A_Operation2_1"
+    },
+    {
+        "input": "Which operations are part of HTRV08U_01A_Step3?",
+        "output": "HTRV08U_01A_Operation3_1, HTRV08U_01A_Operation3_2"
+    },
+    {
+        "input": "Which operations does HTRV08U_01A_Step4 include?",
+        "output": "HTRV08U_01A_Operation4_1, HTRV08U_01A_Operation4_2, HTRV08U_01A_Operation4_3, HTRV08U_01A_Operation4_4"
+    },
+    {
+        "input": "Which operations belong to HTRV08U_01A_Step5?",
+        "output": "HTRV08U_01A_Operation5_1, HTRV08U_01A_Operation5_2"
+    },
+    {
+        "input": "Which operations are part of HTRV08U_01A_Step6?",
+        "output": "HTRV08U_01A_Operation6_1, HTRV08U_01A_Operation6_2"
+    },
+    {
+        "input": "Which operations belong to HTRV08U_01A_Step7?",
+        "output": "HTRV08U_01A_Operation7_1, HTRV08U_01A_Operation7_2"
+    },
+    {
+        "input": "Which operations are contained in HTRV08U_01A_Step8?",
+        "output": "HTRV08U_01A_Operation8_1, HTRV08U_01A_Operation8_2, HTRV08U_01A_Operation8_3"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation1_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action of HTRV08U_01A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation1_2 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What is the action for HTRV08U_01A_Operation1_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation1_2?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation1_3 act on?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation1_3 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What is the action performed by HTRV08U_01A_Operation1_3?",
+        "output": "push"
+    },
+    {
+        "input": "What detail is included in HTRV08U_01A_Operation1_3?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "Which part does HTRV08U_01A_Operation1_3 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What type does Plug have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation2_1 act on?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "Which entity is acted to by HTRV08U_01A_Operation2_1?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "Which action is used in HTRV08U_01A_Operation2_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Operation2_1 have?",
+        "output": "above"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation3_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation3_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is carried out by HTRV08U_01A_Operation3_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation3_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "To which entity does HTRV08U_01A_Operation3_2 act?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation3_2 perform?",
+        "output": "insert"
+    },
+    {
+        "input": "Which entity is the object of HTRV08U_01A_Operation4_1?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation4_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTRV08U_01A_Operation4_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation4_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "To what does HTRV08U_01A_Operation4_2 act?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation4_2 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity is acted on by HTRV08U_01A_Operation4_3?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "Which entity is the target of HTRV08U_01A_Operation4_3?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What is the action in HTRV08U_01A_Operation4_3?",
+        "output": "insert"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation4_4 perform?",
+        "output": "press"
+    },
+    {
+        "input": "Which tool does HTRV08U_01A_Operation4_4 use?",
+        "output": "Manual_Press"
+    },
+    {
+        "input": "Which entity is acted on by HTRV08U_01A_Operation5_1?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation5_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation5_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation5_2 act on?",
+        "output": "Threaded_Sleeve"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation5_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is assigned to HTRV08U_01A_Operation5_2?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation6_1 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "To which entity does HTRV08U_01A_Operation6_1 act?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is done in HTRV08U_01A_Operation6_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation6_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "Which entity is the target of HTRV08U_01A_Operation6_2?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTRV08U_01A_Operation6_2?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation7_1 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation7_1 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation7_1 execute?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is included in HTRV08U_01A_Operation7_1?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation7_2 act on?",
+        "output": "Dumbbell_Ring"
+    },
+    {
+        "input": "Which entity is acted to by HTRV08U_01A_Operation7_2?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action does HTRV08U_01A_Operation7_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation8_1 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation8_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action for HTRV08U_01A_Operation8_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation8_2 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "Which entity does HTRV08U_01A_Operation8_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTRV08U_01A_Operation8_2?",
+        "output": "place"
+    },
+    {
+        "input": "Which action does HTRV08U_01A_Operation8_3 perform?",
+        "output": "apply"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Operation8_3?",
+        "output": "external_thread"
+    },
+    {
+        "input": "Which tool is used by HTRV08U_01A_Operation8_3?",
+        "output": "Threadlocker"
+    },
+    {
+        "input": "What type does Adjusting_Screw have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Threadlocker?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which type category does Main_Valve_Seat belong to?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which type does Spring_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Conical_Valve_Core?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide classified as?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which type does Threaded_Sleeve have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type category is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail is associated with HTRV08U_01A_Step3?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "Which detail does HTRV08U_01A_Step4 have?",
+        "output": "Core_must_not_jam_in_valve_seat"
+    },
+    {
+        "input": "What detail does HTRV08U_01A_Step6 include?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "Which operations are included in HTRV08U_01A_Step1?",
+        "output": "HTRV08U_01A_Operation1_1, HTRV08U_01A_Operation1_2, HTRV08U_01A_Operation1_3"
+    },
+    {
+        "input": "Which operations are performed in HTRV08U_01A_Step2?",
+        "output": "HTRV08U_01A_Operation2_1"
+    },
+    {
+        "input": "Which operations belong to HTRV08U_01A_Step3?",
+        "output": "HTRV08U_01A_Operation3_1, HTRV08U_01A_Operation3_2"
+    },
+    {
+        "input": "Which operations are in HTRV08U_01A_Step4?",
+        "output": "HTRV08U_01A_Operation4_1, HTRV08U_01A_Operation4_2, HTRV08U_01A_Operation4_3, HTRV08U_01A_Operation4_4"
+    },
+    {
+        "input": "Which operations are associated with HTRV08U_01A_Step5?",
+        "output": "HTRV08U_01A_Operation5_1, HTRV08U_01A_Operation5_2"
+    },
+    {
+        "input": "Which operations does HTRV08U_01A_Step6 have?",
+        "output": "HTRV08U_01A_Operation6_1, HTRV08U_01A_Operation6_2"
+    },
+    {
+        "input": "What operations are included in HTRV08U_01A_Step7?",
+        "output": "HTRV08U_01A_Operation7_1, HTRV08U_01A_Operation7_2"
+    },
+    {
+        "input": "Which operations belong to HTRV08U_01A_Step8?",
+        "output": "HTRV08U_01A_Operation8_1, HTRV08U_01A_Operation8_2, HTRV08U_01A_Operation8_3"
+    }
+]

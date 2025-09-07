@@ -1,0 +1,366 @@
+[
+    {
+        "input": "What does HTCV08W_02A_Operation1_1 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation1_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_2 act on?",
+        "output": "Valve_Body"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation1_2 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_3 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_3 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation1_3 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_4 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_4 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation1_4 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_5 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_5 act to?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation1_5 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does HTCV08W_02A_Operation1_5 have?",
+        "output": "inner_hole"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_6 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_6 act to?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation1_6 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation2_1 act on?",
+        "output": "Valve_Body"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation2_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation2_2 act on?",
+        "output": "Valve_Body"
+    },
+    {
+        "input": "Where does HTCV08W_02A_Operation2_2 take place?",
+        "output": "Spring_Seat_Assembly_Fixture"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation2_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does HTCV08W_02A_Operation2_2 have?",
+        "output": "face_up"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation2_3 act on?",
+        "output": "Valve_Body"
+    },
+    {
+        "input": "What action does HTCV08W_02A_Operation2_3 have?",
+        "output": "press"
+    },
+    {
+        "input": "What detail does HTCV08W_02A_Operation2_3 have?",
+        "output": "inner_wall"
+    },
+    {
+        "input": "What tool does HTCV08W_02A_Operation2_3 use?",
+        "output": "Manual_Press"
+    },
+    {
+        "input": "What type does Spring have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Body have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Steel_Ball have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Spring_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTCV08W_02A_Step2 have?",
+        "output": "Ensure_pressing_after_cutting"
+    },
+    {
+        "input": "Which steps does HTCV08W_02A include?",
+        "output": "HTCV08W_02A_Step1, HTCV08W_02A_Step2"
+    },
+    {
+        "input": "What operation follows HTCV08W_02A_Operation1_1?",
+        "output": "HTCV08W_02A_Operation1_2"
+    },
+    {
+        "input": "What operation follows HTCV08W_02A_Operation1_2?",
+        "output": "HTCV08W_02A_Operation1_3"
+    },
+    {
+        "input": "What operation follows HTCV08W_02A_Operation1_3?",
+        "output": "HTCV08W_02A_Operation1_4"
+    },
+    {
+        "input": "What operation follows HTCV08W_02A_Operation1_4?",
+        "output": "HTCV08W_02A_Operation1_5"
+    },
+    {
+        "input": "What operation follows HTCV08W_02A_Operation1_5?",
+        "output": "HTCV08W_02A_Operation1_6"
+    },
+    {
+        "input": "What operation follows HTCV08W_02A_Operation2_1?",
+        "output": "HTCV08W_02A_Operation2_2"
+    },
+    {
+        "input": "What operation follows HTCV08W_02A_Operation2_2?",
+        "output": "HTCV08W_02A_Operation2_3"
+    },
+    {
+        "input": "Which operations are included in HTCV08W_02A_Step1?",
+        "output": "HTCV08W_02A_Operation1_1, HTCV08W_02A_Operation1_2, HTCV08W_02A_Operation1_3, HTCV08W_02A_Operation1_4, HTCV08W_02A_Operation1_5, HTCV08W_02A_Operation1_6"
+    },
+    {
+        "input": "What step follows HTCV08W_02A_Step1?",
+        "output": "HTCV08W_02A_Step2"
+    },
+    {
+        "input": "Which operations are included in HTCV08W_02A_Step2?",
+        "output": "HTCV08W_02A_Operation2_1, HTCV08W_02A_Operation2_2, HTCV08W_02A_Operation2_3"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_1 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_2 act on?",
+        "output": "Valve_Body"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation1_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_3 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_3 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation1_3?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_4 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_4 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation1_4?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_5 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_5 act to?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation1_5?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with HTCV08W_02A_Operation1_5?",
+        "output": "inner_hole"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_6 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation1_6 act to?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation1_6?",
+        "output": "insert"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation2_1 act on?",
+        "output": "Valve_Body"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation2_2 act on?",
+        "output": "Valve_Body"
+    },
+    {
+        "input": "Where does HTCV08W_02A_Operation2_2 take place?",
+        "output": "Spring_Seat_Assembly_Fixture"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation2_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with HTCV08W_02A_Operation2_2?",
+        "output": "face_up"
+    },
+    {
+        "input": "What does HTCV08W_02A_Operation2_3 act on?",
+        "output": "Valve_Body"
+    },
+    {
+        "input": "What action is performed in HTCV08W_02A_Operation2_3?",
+        "output": "press"
+    },
+    {
+        "input": "What detail is associated with HTCV08W_02A_Operation2_3?",
+        "output": "inner_wall"
+    },
+    {
+        "input": "Which tool is used by HTCV08W_02A_Operation2_3?",
+        "output": "Manual_Press"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Body?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Steel_Ball?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTCV08W_02A_Step2 have?",
+        "output": "Ensure_pressing_after_cutting"
+    },
+    {
+        "input": "Which operations does HTCV08W_02A_Step1 have?",
+        "output": "HTCV08W_02A_Operation1_1, HTCV08W_02A_Operation1_2, HTCV08W_02A_Operation1_3, HTCV08W_02A_Operation1_4, HTCV08W_02A_Operation1_5, HTCV08W_02A_Operation1_6"
+    },
+    {
+        "input": "Which operations does HTCV08W_02A_Step2 have?",
+        "output": "HTCV08W_02A_Operation2_1, HTCV08W_02A_Operation2_2, HTCV08W_02A_Operation2_3"
+    },
+    {
+        "input": "What is the next operation after HTCV08W_02A_Operation1_1?",
+        "output": "HTCV08W_02A_Operation1_2"
+    },
+    {
+        "input": "What is the next operation after HTCV08W_02A_Operation1_2?",
+        "output": "HTCV08W_02A_Operation1_3"
+    },
+    {
+        "input": "What is the next operation after HTCV08W_02A_Operation1_3?",
+        "output": "HTCV08W_02A_Operation1_4"
+    },
+    {
+        "input": "What is the next operation after HTCV08W_02A_Operation1_4?",
+        "output": "HTCV08W_02A_Operation1_5"
+    },
+    {
+        "input": "What is the next operation after HTCV08W_02A_Operation1_5?",
+        "output": "HTCV08W_02A_Operation1_6"
+    },
+    {
+        "input": "What is the next operation after HTCV08W_02A_Operation2_1?",
+        "output": "HTCV08W_02A_Operation2_2"
+    },
+    {
+        "input": "What is the next operation after HTCV08W_02A_Operation2_2?",
+        "output": "HTCV08W_02A_Operation2_3"
+    },
+    {
+        "input": "What is the next step after HTCV08W_02A_Step1?",
+        "output": "HTCV08W_02A_Step2"
+    }
+]

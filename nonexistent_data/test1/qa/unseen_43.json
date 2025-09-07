@@ -1,0 +1,418 @@
+[
+    {
+        "input": "What does DRVRM_20_Operation1_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation1_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRVRM_20_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation1_2 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation1_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation1_2 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does DRVRM_20_Operation1_3 act on?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation1_3 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation1_3 have?",
+        "output": "push"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation1_3 have?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "What tool does DRVRM_20_Operation1_3 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does DRVRM_20_Operation2_1 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation2_1 act to?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation2_1 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation2_1 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does DRVRM_20_Operation3_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation3_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation3_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRVRM_20_Operation3_2 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation3_2 act to?",
+        "output": "Forming_Jig"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation3_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What does DRVRM_20_Operation4_1 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation4_1 act to?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation4_1 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation4_1 have?",
+        "output": "side_hole"
+    },
+    {
+        "input": "What does DRVRM_20_Operation4_2 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation4_2 act to?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation4_2 have?",
+        "output": "press"
+    },
+    {
+        "input": "What tool does DRVRM_20_Operation4_2 use?",
+        "output": "Manual_Press"
+    },
+    {
+        "input": "What does DRVRM_20_Operation5_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Where does DRVRM_20_Operation5_1 act to?",
+        "output": "Valve_Core"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation5_1 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation5_1 have?",
+        "output": "small_end_to_small_end"
+    },
+    {
+        "input": "What part does DRVRM_20_Operation5_1 use?",
+        "output": "Spring"
+    },
+    {
+        "input": "What type does Adjusting_Screw have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Spring_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Core have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Plug have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does O_Ring_Guide have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Spring have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Steel_Ball have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step1?",
+        "output": "DRVRM_20_Operation1_1, DRVRM_20_Operation1_2, DRVRM_20_Operation1_3"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step2?",
+        "output": "DRVRM_20_Operation2_1"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step3?",
+        "output": "DRVRM_20_Operation3_1, DRVRM_20_Operation3_2"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step4?",
+        "output": "DRVRM_20_Operation4_1, DRVRM_20_Operation4_2"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step5?",
+        "output": "DRVRM_20_Operation5_1"
+    },
+    {
+        "input": "What does DRVRM_20_Operation1_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "What does DRVRM_20_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation1_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRVRM_20_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does DRVRM_20_Operation1_2 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation1_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation1_2 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does DRVRM_20_Operation1_3 act on?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "What does DRVRM_20_Operation1_3 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation1_3 have?",
+        "output": "push"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation1_3 have?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "Which tool does DRVRM_20_Operation1_3 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does DRVRM_20_Operation2_1 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does DRVRM_20_Operation2_1 act to?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation2_1 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation2_1 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does DRVRM_20_Operation3_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does DRVRM_20_Operation3_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation3_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRVRM_20_Operation3_2 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does DRVRM_20_Operation3_2 act to?",
+        "output": "Forming_Jig"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation3_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What does DRVRM_20_Operation4_1 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "What does DRVRM_20_Operation4_1 act to?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation4_1 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation4_1 have?",
+        "output": "side_hole"
+    },
+    {
+        "input": "What does DRVRM_20_Operation4_2 act on?",
+        "output": "Steel_Ball"
+    },
+    {
+        "input": "What does DRVRM_20_Operation4_2 act to?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation4_2 have?",
+        "output": "press"
+    },
+    {
+        "input": "Which tool does DRVRM_20_Operation4_2 use?",
+        "output": "Manual_Press"
+    },
+    {
+        "input": "What does DRVRM_20_Operation5_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does DRVRM_20_Operation5_1 act to?",
+        "output": "Valve_Core"
+    },
+    {
+        "input": "What action does DRVRM_20_Operation5_1 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does DRVRM_20_Operation5_1 have?",
+        "output": "small_end_to_small_end"
+    },
+    {
+        "input": "Which part does DRVRM_20_Operation5_1 use?",
+        "output": "Spring"
+    },
+    {
+        "input": "What type does Adjusting_Screw have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Spring_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Core have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Plug have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does O_Ring_Guide have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Spring have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Steel_Ball have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step1?",
+        "output": "DRVRM_20_Operation1_1, DRVRM_20_Operation1_2, DRVRM_20_Operation1_3"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step2?",
+        "output": "DRVRM_20_Operation2_1"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step3?",
+        "output": "DRVRM_20_Operation3_1, DRVRM_20_Operation3_2"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step4?",
+        "output": "DRVRM_20_Operation4_1, DRVRM_20_Operation4_2"
+    },
+    {
+        "input": "Which operations are included in DRVRM_20_Step5?",
+        "output": "DRVRM_20_Operation5_1"
+    },
+    {
+        "input": "What is the next operation after DRVRM_20_Operation1_1?",
+        "output": "DRVRM_20_Operation1_2"
+    },
+    {
+        "input": "What is the next operation after DRVRM_20_Operation1_2?",
+        "output": "DRVRM_20_Operation1_3"
+    },
+    {
+        "input": "What is the next operation after DRVRM_20_Operation3_1?",
+        "output": "DRVRM_20_Operation3_2"
+    },
+    {
+        "input": "What is the next operation after DRVRM_20_Operation4_1?",
+        "output": "DRVRM_20_Operation4_2"
+    },
+    {
+        "input": "What is the next step after DRVRM_20_Step1?",
+        "output": "DRVRM_20_Step2"
+    },
+    {
+        "input": "What is the next step after DRVRM_20_Step2?",
+        "output": "DRVRM_20_Step3"
+    },
+    {
+        "input": "What is the next step after DRVRM_20_Step3?",
+        "output": "DRVRM_20_Step4"
+    },
+    {
+        "input": "What is the next step after DRVRM_20_Step4?",
+        "output": "DRVRM_20_Step5"
+    }
+]

@@ -1,0 +1,490 @@
+[
+    {
+        "input": "What does PRV1M_24_Operation1_1 act on?",
+        "output": "Adjustment_Screw_Base"
+    },
+    {
+        "input": "What does PRV1M_24_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in PRV1M_24_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does PRV1M_24_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation1_2 act to?",
+        "output": "Adjustment_Screw_Base"
+    },
+    {
+        "input": "What action is carried out by PRV1M_24_Operation1_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with PRV1M_24_Operation1_2?",
+        "output": "appropriate_O-ring_guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation2_1 act on?",
+        "output": "Inner_Valve_Seat"
+    },
+    {
+        "input": "Where does PRV1M_24_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action in PRV1M_24_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "What is the object of action in PRV1M_24_Operation2_2?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "PRV1M_24_Operation2_2 acts to which entity?",
+        "output": "Inner_Valve_Seat"
+    },
+    {
+        "input": "What action is done in PRV1M_24_Operation2_2?",
+        "output": "insert"
+    },
+    {
+        "input": "Which detail is specified for PRV1M_24_Operation2_2?",
+        "output": "appropriate_O-ring_guide"
+    },
+    {
+        "input": "What is the target of PRV1M_24_Operation3_1's action?",
+        "output": "Beaker"
+    },
+    {
+        "input": "To where does PRV1M_24_Operation3_1 act?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in PRV1M_24_Operation3_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does PRV1M_24_Operation4_1 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which entity does PRV1M_24_Operation4_1 act to?",
+        "output": "Inner_Valve_Seat"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation4_1 perform?",
+        "output": "insert"
+    },
+    {
+        "input": "Which detail does PRV1M_24_Operation4_1 include?",
+        "output": "appropriate_O-ring_guide"
+    },
+    {
+        "input": "What is the object of PRV1M_24_Operation4_2's action?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "Where does PRV1M_24_Operation4_2 act to?",
+        "output": "Inner_Valve_Seat"
+    },
+    {
+        "input": "What action is executed by PRV1M_24_Operation4_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is linked with PRV1M_24_Operation4_2?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "What part does PRV1M_24_Operation4_2 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "On what does PRV1M_24_Operation5_1 act?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "Where is PRV1M_24_Operation5_1 performed?",
+        "output": "Seal_Shaping_Tool"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation5_1 perform?",
+        "output": "shape"
+    },
+    {
+        "input": "What does PRV1M_24_Operation6_1 act on?",
+        "output": "Outer_Valve_Seat"
+    },
+    {
+        "input": "What is the target of PRV1M_24_Operation6_1's action?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is carried out in PRV1M_24_Operation6_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does PRV1M_24_Operation7_1 act on?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "To what does PRV1M_24_Operation7_1 act?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "What action is done in PRV1M_24_Operation7_1?",
+        "output": "insert"
+    },
+    {
+        "input": "Which detail is noted for PRV1M_24_Operation7_1?",
+        "output": "above"
+    },
+    {
+        "input": "What type is Inner_Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Adjustment_Screw_Base?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Outer_Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Beaker?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which detail does PRV1M_24_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "Which detail is associated with PRV1M_24_Step2?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "Which detail does PRV1M_24_Step6 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail is given for PRV1M_24_Step7?",
+        "output": "Retaining_Ring_and_O-ring_positions_must_not_be_reversed_or_misaligned"
+    },
+    {
+        "input": "Which operations are included in PRV1M_24_Step1?",
+        "output": "PRV1M_24_Operation1_1, PRV1M_24_Operation1_2"
+    },
+    {
+        "input": "Which operations does PRV1M_24_Step2 have?",
+        "output": "PRV1M_24_Operation2_1, PRV1M_24_Operation2_2"
+    },
+    {
+        "input": "Which operation is part of PRV1M_24_Step3?",
+        "output": "PRV1M_24_Operation3_1"
+    },
+    {
+        "input": "Which operations are contained in PRV1M_24_Step4?",
+        "output": "PRV1M_24_Operation4_1, PRV1M_24_Operation4_2"
+    },
+    {
+        "input": "What operation belongs to PRV1M_24_Step5?",
+        "output": "PRV1M_24_Operation5_1"
+    },
+    {
+        "input": "Which operation is in PRV1M_24_Step6?",
+        "output": "PRV1M_24_Operation6_1"
+    },
+    {
+        "input": "Which operation is associated with PRV1M_24_Step7?",
+        "output": "PRV1M_24_Operation7_1"
+    },
+    {
+        "input": "What is the next operation after PRV1M_24_Operation1_1?",
+        "output": "PRV1M_24_Operation1_2"
+    },
+    {
+        "input": "Which operation follows PRV1M_24_Operation2_1?",
+        "output": "PRV1M_24_Operation2_2"
+    },
+    {
+        "input": "What is the next operation after PRV1M_24_Operation4_1?",
+        "output": "PRV1M_24_Operation4_2"
+    },
+    {
+        "input": "What step follows PRV1M_24_Step1?",
+        "output": "PRV1M_24_Step2"
+    },
+    {
+        "input": "Which step comes after PRV1M_24_Step2?",
+        "output": "PRV1M_24_Step3"
+    },
+    {
+        "input": "What step follows PRV1M_24_Step3?",
+        "output": "PRV1M_24_Step4"
+    },
+    {
+        "input": "Which step is next after PRV1M_24_Step4?",
+        "output": "PRV1M_24_Step5"
+    },
+    {
+        "input": "What step comes after PRV1M_24_Step5?",
+        "output": "PRV1M_24_Step6"
+    },
+    {
+        "input": "Which step is next after PRV1M_24_Step6?",
+        "output": "PRV1M_24_Step7"
+    },
+    {
+        "input": "What does PRV1M_24_Operation1_1 act_on?",
+        "output": "Adjustment_Screw_Base"
+    },
+    {
+        "input": "What does PRV1M_24_Operation1_1 act_to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation1_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does PRV1M_24_Operation1_2 act_on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation1_2 act_to?",
+        "output": "Adjustment_Screw_Base"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation1_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does PRV1M_24_Operation1_2 have?",
+        "output": "appropriate_O-ring_guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation2_1 act_on?",
+        "output": "Inner_Valve_Seat"
+    },
+    {
+        "input": "What does PRV1M_24_Operation2_1 act_to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation2_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does PRV1M_24_Operation2_2 act_on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation2_2 act_to?",
+        "output": "Inner_Valve_Seat"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation2_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does PRV1M_24_Operation2_2 have?",
+        "output": "appropriate_O-ring_guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation3_1 act_on?",
+        "output": "Beaker"
+    },
+    {
+        "input": "What does PRV1M_24_Operation3_1 act_to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation3_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does PRV1M_24_Operation4_1 act_on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation4_1 act_to?",
+        "output": "Inner_Valve_Seat"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation4_1 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does PRV1M_24_Operation4_1 have?",
+        "output": "appropriate_O-ring_guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation4_2 act_on?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "What does PRV1M_24_Operation4_2 act_to?",
+        "output": "Inner_Valve_Seat"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation4_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does PRV1M_24_Operation4_2 have?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "What part does PRV1M_24_Operation4_2 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does PRV1M_24_Operation5_1 act_on?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "Where is PRV1M_24_Operation5_1 at?",
+        "output": "Seal_Shaping_Tool"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation5_1 have?",
+        "output": "shape"
+    },
+    {
+        "input": "What does PRV1M_24_Operation6_1 act_on?",
+        "output": "Outer_Valve_Seat"
+    },
+    {
+        "input": "What does PRV1M_24_Operation6_1 act_to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation6_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "What does PRV1M_24_Operation7_1 act_on?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "What does PRV1M_24_Operation7_1 act_to?",
+        "output": "O_Ring"
+    },
+    {
+        "input": "What action does PRV1M_24_Operation7_1 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does PRV1M_24_Operation7_1 have?",
+        "output": "above"
+    },
+    {
+        "input": "What type does Inner_Valve_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Adjustment_Screw_Base have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does O_Ring_Guide have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Outer_Valve_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Beaker have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does PRV1M_24_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does PRV1M_24_Step2 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does PRV1M_24_Step6 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does PRV1M_24_Step7 have?",
+        "output": "Retaining_Ring_and_O-ring_positions_must_not_be_reversed_or_misaligned"
+    },
+    {
+        "input": "Which operations are included in PRV1M_24_Step1?",
+        "output": "PRV1M_24_Operation1_1, PRV1M_24_Operation1_2"
+    },
+    {
+        "input": "Which operations are included in PRV1M_24_Step2?",
+        "output": "PRV1M_24_Operation2_1, PRV1M_24_Operation2_2"
+    },
+    {
+        "input": "Which operations are included in PRV1M_24_Step3?",
+        "output": "PRV1M_24_Operation3_1"
+    },
+    {
+        "input": "Which operations are included in PRV1M_24_Step4?",
+        "output": "PRV1M_24_Operation4_1, PRV1M_24_Operation4_2"
+    },
+    {
+        "input": "Which operations are included in PRV1M_24_Step5?",
+        "output": "PRV1M_24_Operation5_1"
+    },
+    {
+        "input": "Which operations are included in PRV1M_24_Step6?",
+        "output": "PRV1M_24_Operation6_1"
+    },
+    {
+        "input": "Which operations are included in PRV1M_24_Step7?",
+        "output": "PRV1M_24_Operation7_1"
+    },
+    {
+        "input": "What is the next operation after PRV1M_24_Operation1_1?",
+        "output": "PRV1M_24_Operation1_2"
+    },
+    {
+        "input": "What is the next operation after PRV1M_24_Operation2_1?",
+        "output": "PRV1M_24_Operation2_2"
+    },
+    {
+        "input": "What is the next operation after PRV1M_24_Operation4_1?",
+        "output": "PRV1M_24_Operation4_2"
+    },
+    {
+        "input": "What is the next step after PRV1M_24_Step1?",
+        "output": "PRV1M_24_Step2"
+    },
+    {
+        "input": "What is the next step after PRV1M_24_Step2?",
+        "output": "PRV1M_24_Step3"
+    },
+    {
+        "input": "What is the next step after PRV1M_24_Step3?",
+        "output": "PRV1M_24_Step4"
+    },
+    {
+        "input": "What is the next step after PRV1M_24_Step4?",
+        "output": "PRV1M_24_Step5"
+    },
+    {
+        "input": "What is the next step after PRV1M_24_Step5?",
+        "output": "PRV1M_24_Step6"
+    },
+    {
+        "input": "What is the next step after PRV1M_24_Step6?",
+        "output": "PRV1M_24_Step7"
+    }
+]

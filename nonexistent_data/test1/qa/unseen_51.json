@@ -1,0 +1,1238 @@
+[
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation1_1 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_2 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation1_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation1_2 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation1_3 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation1_3?",
+        "output": "push"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation1_3 have?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "Which tool is used in HTIR20M_E0A_Operation1_3?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation2_1 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation3_1 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation3_1 act?",
+        "output": "Heater"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation3_1?",
+        "output": "heat"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation3_1 have?",
+        "output": "for_2_minutes"
+    },
+    {
+        "input": "Which tool is used in HTIR20M_E0A_Operation3_1?",
+        "output": "Beaker"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation7_1 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation7_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation7_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation7_2?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation7_3 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation7_3?",
+        "output": "insert"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation7_4 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation7_4?",
+        "output": "screw"
+    },
+    {
+        "input": "Which tool is used in HTIR20M_E0A_Operation7_4?",
+        "output": "Wrench"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation8_1 act on?",
+        "output": "Circlip"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation8_1 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation8_1?",
+        "output": "insert"
+    },
+    {
+        "input": "Which tool is used in HTIR20M_E0A_Operation8_1?",
+        "output": "Retaining_Tool"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation8_2 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation8_2?",
+        "output": "screw"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation8_2 have?",
+        "output": "counterclockwise"
+    },
+    {
+        "input": "Which entities does HTIR20M_E0A_Operation8_3 act on?",
+        "output": "Adjusting_Rod, Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation8_3?",
+        "output": "apply"
+    },
+    {
+        "input": "Which tool is used in HTIR20M_E0A_Operation8_3?",
+        "output": "Hydraulic_Oil"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation9_1 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation9_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation9_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation9_2?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation9_3 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation9_3?",
+        "output": "tighten"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation9_3 have?",
+        "output": "manually"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation9_4 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation9_4?",
+        "output": "insert"
+    },
+    {
+        "input": "Which tool is used in HTIR20M_E0A_Operation9_4?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "What type is Hex_Key_Wrench?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Main_Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Hydraulic_Oil?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Wrench?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Beaker?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is ED_Plug?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Adjusting_Rod?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation4_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation4_1 act?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation4_1?",
+        "output": "tighten"
+    },
+    {
+        "input": "What type is Plug?",
+        "output": "graspable"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation5_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_1?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation5_2 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_2?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation5_3 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_3 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_3?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation5_4 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_4 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_4?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation5_5 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_5 act to?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_5?",
+        "output": "insert"
+    },
+    {
+        "input": "Which part is used in HTIR20M_E0A_Operation5_5?",
+        "output": "Spring"
+    },
+    {
+        "input": "Which entity does HTIR20M_E0A_Operation6_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation6_1 act to?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation6_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Conical_Valve_Core?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step3 have?",
+        "output": "Heat_O-ring_in_oil_before_assembly_to_avoid_damage"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step8 have?",
+        "output": "Tighten_rod_after_ring_installation"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step9 have?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step6 have?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step1?",
+        "output": "HTIR20M_E0A_Operation1_1, HTIR20M_E0A_Operation1_2, HTIR20M_E0A_Operation1_3"
+    },
+    {
+        "input": "Which operation is included in HTIR20M_E0A_Step2?",
+        "output": "HTIR20M_E0A_Operation2_1"
+    },
+    {
+        "input": "Which operation is included in HTIR20M_E0A_Step3?",
+        "output": "HTIR20M_E0A_Operation3_1"
+    },
+    {
+        "input": "Which operation is included in HTIR20M_E0A_Step4?",
+        "output": "HTIR20M_E0A_Operation4_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step5?",
+        "output": "HTIR20M_E0A_Operation5_1, HTIR20M_E0A_Operation5_2, HTIR20M_E0A_Operation5_3, HTIR20M_E0A_Operation5_4, HTIR20M_E0A_Operation5_5"
+    },
+    {
+        "input": "Which operation is included in HTIR20M_E0A_Step6?",
+        "output": "HTIR20M_E0A_Operation6_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step7?",
+        "output": "HTIR20M_E0A_Operation7_1, HTIR20M_E0A_Operation7_2, HTIR20M_E0A_Operation7_3, HTIR20M_E0A_Operation7_4"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step8?",
+        "output": "HTIR20M_E0A_Operation8_1, HTIR20M_E0A_Operation8_2, HTIR20M_E0A_Operation8_3"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step9?",
+        "output": "HTIR20M_E0A_Operation9_1, HTIR20M_E0A_Operation9_2, HTIR20M_E0A_Operation9_3, HTIR20M_E0A_Operation9_4"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_1 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_2 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation1_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation1_2 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_3 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation1_3?",
+        "output": "push"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation1_3 have?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "Which tool does HTIR20M_E0A_Operation1_3 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation2_1 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation3_1 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "Where is HTIR20M_E0A_Operation3_1 performed at?",
+        "output": "Heater"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation3_1?",
+        "output": "heat"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation3_1 have?",
+        "output": "for_2_minutes"
+    },
+    {
+        "input": "Which tool does HTIR20M_E0A_Operation3_1 use?",
+        "output": "Beaker"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_1 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation7_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation7_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_3 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation7_3?",
+        "output": "insert"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_4 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation7_4?",
+        "output": "screw"
+    },
+    {
+        "input": "Which tool does HTIR20M_E0A_Operation7_4 use?",
+        "output": "Wrench"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation8_1 act on?",
+        "output": "Circlip"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation8_1 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation8_1?",
+        "output": "insert"
+    },
+    {
+        "input": "Which tool does HTIR20M_E0A_Operation8_1 use?",
+        "output": "Retaining_Tool"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation8_2 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation8_2?",
+        "output": "screw"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation8_2 have?",
+        "output": "counterclockwise"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation8_3 act on?",
+        "output": "Adjusting_Rod, Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation8_3?",
+        "output": "apply"
+    },
+    {
+        "input": "Which tool does HTIR20M_E0A_Operation8_3 use?",
+        "output": "Hydraulic_Oil"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_1 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation9_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation9_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_3 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation9_3?",
+        "output": "tighten"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation9_3 have?",
+        "output": "manually"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_4 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation9_4?",
+        "output": "insert"
+    },
+    {
+        "input": "Which tool does HTIR20M_E0A_Operation9_4 use?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "What type is Hex_Key_Wrench?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Main_Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Hydraulic_Oil?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Wrench?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Beaker?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is ED_Plug?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Adjusting_Rod?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation4_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Where is HTIR20M_E0A_Operation4_1 performed at?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation4_1?",
+        "output": "tighten"
+    },
+    {
+        "input": "What type is Plug?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_2 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_3 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_3 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_3?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_4 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_4 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_4?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_5 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_5 act to?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation5_5?",
+        "output": "insert"
+    },
+    {
+        "input": "Which part does HTIR20M_E0A_Operation5_5 use?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation6_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation6_1 act to?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action is performed in HTIR20M_E0A_Operation6_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Conical_Valve_Core?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step3 have?",
+        "output": "Heat_O-ring_in_oil_before_assembly_to_avoid_damage"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step8 have?",
+        "output": "Tighten_rod_after_ring_installation"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step9 have?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step6 have?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step1?",
+        "output": "HTIR20M_E0A_Operation1_1, HTIR20M_E0A_Operation1_2, HTIR20M_E0A_Operation1_3"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step2?",
+        "output": "HTIR20M_E0A_Operation2_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step3?",
+        "output": "HTIR20M_E0A_Operation3_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step4?",
+        "output": "HTIR20M_E0A_Operation4_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step5?",
+        "output": "HTIR20M_E0A_Operation5_1, HTIR20M_E0A_Operation5_2, HTIR20M_E0A_Operation5_3, HTIR20M_E0A_Operation5_4, HTIR20M_E0A_Operation5_5"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step6?",
+        "output": "HTIR20M_E0A_Operation6_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step7?",
+        "output": "HTIR20M_E0A_Operation7_1, HTIR20M_E0A_Operation7_2, HTIR20M_E0A_Operation7_3, HTIR20M_E0A_Operation7_4"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step8?",
+        "output": "HTIR20M_E0A_Operation8_1, HTIR20M_E0A_Operation8_2, HTIR20M_E0A_Operation8_3"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step9?",
+        "output": "HTIR20M_E0A_Operation9_1, HTIR20M_E0A_Operation9_2, HTIR20M_E0A_Operation9_3, HTIR20M_E0A_Operation9_4"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_1 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation1_2 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation1_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation1_2 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation1_3 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation1_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation1_3?",
+        "output": "push"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation1_3 have?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "What tool does HTIR20M_E0A_Operation1_3 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation2_1 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation3_1 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation3_1 take place?",
+        "output": "Heater"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation3_1?",
+        "output": "heat"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation3_1 have?",
+        "output": "for_2_minutes"
+    },
+    {
+        "input": "What tool does HTIR20M_E0A_Operation3_1 use?",
+        "output": "Beaker"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_1 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation7_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation7_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation7_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation7_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_3 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation7_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation7_3?",
+        "output": "insert"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation7_4 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation7_4?",
+        "output": "screw"
+    },
+    {
+        "input": "What tool does HTIR20M_E0A_Operation7_4 use?",
+        "output": "Wrench"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation8_1 act on?",
+        "output": "Circlip"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation8_1 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation8_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What tool does HTIR20M_E0A_Operation8_1 use?",
+        "output": "Retaining_Tool"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation8_2 act on?",
+        "output": "Adjusting_Rod"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation8_2?",
+        "output": "screw"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation8_2 have?",
+        "output": "counterclockwise"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation8_3 act on?",
+        "output": "Adjusting_Rod, Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation8_3?",
+        "output": "apply"
+    },
+    {
+        "input": "What tool does HTIR20M_E0A_Operation8_3 use?",
+        "output": "Hydraulic_Oil"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_1 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation9_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation9_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_2 act on?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation9_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation9_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_3 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation9_3 act to?",
+        "output": "Main_Valve_Seat"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation9_3?",
+        "output": "tighten"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Operation9_3 have?",
+        "output": "manually"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation9_4 act on?",
+        "output": "ED_Plug"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation9_4?",
+        "output": "insert"
+    },
+    {
+        "input": "What tool does HTIR20M_E0A_Operation9_4 use?",
+        "output": "Hex_Key_Wrench"
+    },
+    {
+        "input": "What type does Hex_Key_Wrench have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Main_Valve_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does O_Ring_Guide have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Hydraulic_Oil have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Wrench have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Beaker have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does ED_Plug have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Adjusting_Rod have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation4_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation4_1 take place?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation4_1?",
+        "output": "tighten"
+    },
+    {
+        "input": "What type does Plug have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation5_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation5_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_2 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation5_2 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation5_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_3 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation5_3 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation5_3?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_4 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation5_4 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation5_4?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation5_5 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation5_5 act to?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation5_5?",
+        "output": "insert"
+    },
+    {
+        "input": "What part does HTIR20M_E0A_Operation5_5 use?",
+        "output": "Spring"
+    },
+    {
+        "input": "What does HTIR20M_E0A_Operation6_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "Where does HTIR20M_E0A_Operation6_1 act to?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action is performed by HTIR20M_E0A_Operation6_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What type does Spring have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Conical_Valve_Core have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Seat have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step3 have?",
+        "output": "Heat_O-ring_in_oil_before_assembly_to_avoid_damage"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step8 have?",
+        "output": "Tighten_rod_after_ring_installation"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step9 have?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "What detail does HTIR20M_E0A_Step6 have?",
+        "output": "Do_not_skip_torque_step"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step1?",
+        "output": "HTIR20M_E0A_Operation1_1, HTIR20M_E0A_Operation1_2, HTIR20M_E0A_Operation1_3"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step2?",
+        "output": "HTIR20M_E0A_Operation2_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step3?",
+        "output": "HTIR20M_E0A_Operation3_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step4?",
+        "output": "HTIR20M_E0A_Operation4_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step5?",
+        "output": "HTIR20M_E0A_Operation5_1, HTIR20M_E0A_Operation5_2, HTIR20M_E0A_Operation5_3, HTIR20M_E0A_Operation5_4, HTIR20M_E0A_Operation5_5"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step6?",
+        "output": "HTIR20M_E0A_Operation6_1"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step7?",
+        "output": "HTIR20M_E0A_Operation7_1, HTIR20M_E0A_Operation7_2, HTIR20M_E0A_Operation7_3, HTIR20M_E0A_Operation7_4"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step8?",
+        "output": "HTIR20M_E0A_Operation8_1, HTIR20M_E0A_Operation8_2, HTIR20M_E0A_Operation8_3"
+    },
+    {
+        "input": "Which operations are included in HTIR20M_E0A_Step9?",
+        "output": "HTIR20M_E0A_Operation9_1, HTIR20M_E0A_Operation9_2, HTIR20M_E0A_Operation9_3, HTIR20M_E0A_Operation9_4"
+    }
+]

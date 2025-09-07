@@ -1,0 +1,30 @@
+## Task Definition
+You need to perform a grasp planning task. Based on the ### Input Image and the ### Target Object, you should output an answer that strictly follows the ### Task Requirements.
+
+### Input Image Description
+The input image is an RGB scene image with visual prompts. The prompts follow these rules:
+1. Text: indicates the name of the object.
+2. Arrow: points to the corresponding object of the text.
+3. Color differentiation: different objects use different colors for text and arrows, while the text color and arrow color of the same object remain consistent.
+
+### Target Object
+The target object will be one of the objects in the image. However, due to stacking, it may not be explicitly labeled by the visual prompts.  
+The target object for this task is: {}
+
+### Task Requirements
+Case 1: If the target object is NOT labeled in the visual prompts, only output the single most likely object that is occluding the target object.  
+Case 2: If the target object IS labeled in the visual prompts, determine whether there are any blocking objects:  
+   1. If there are objects stacked on top of the target, you must first remove the blockers from top to bottom. Only output the top-most blocking object.  
+   2. If there is an object leaning on top of the target, output that object.  
+   3. If there are no blocking objects, directly output the target object.  
+
+## Answer Requirements
+- Only return one text string.  
+- The output text must exactly match one of the names in the visual prompt labels.  
+- Do not output explanations, punctuation, or any extra content.  
+
+## Reasoning Steps
+1. Identify the input image.  
+2. Check whether the target object appears in the text labels.  
+3. Apply Case 1 or Case 2 reasoning.  
+4. Output the result following the ## Answer Requirements.  

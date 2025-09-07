@@ -1,0 +1,662 @@
+[
+    {
+        "input": "What does DRD1S_09_Operation1_1 act on?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation1_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation3_1 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation3_1?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation3_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Operation3_1?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does DRD1S_09_Operation3_2 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation3_2?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation3_2?",
+        "output": "push"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Operation3_2?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "What tool is used in DRD1S_09_Operation3_2?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does DRD1S_09_Operation4_1 act on?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation4_1?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation4_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What does DRD1S_09_Operation5_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation5_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation5_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation5_2 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation5_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation6_1 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation6_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation6_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation6_2 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation6_2?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation6_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation7_1 act on?",
+        "output": "Adjusting_Screw_Base"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation7_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation7_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation7_2 act on?",
+        "output": "Adjusting_Screw_Base"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation7_2?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation7_2?",
+        "output": "screw"
+    },
+    {
+        "input": "What does DRD1S_09_Operation8_1 act on?",
+        "output": "Adjusting_Screw_Base"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation8_1?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation8_1?",
+        "output": "screw"
+    },
+    {
+        "input": "What does DRD1S_09_Operation8_2 act on?",
+        "output": "Adjusting_Screw_Base"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation8_2?",
+        "output": "torque"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Operation8_2?",
+        "output": "35-40NM"
+    },
+    {
+        "input": "What tool is used in DRD1S_09_Operation8_2?",
+        "output": "Torque_Wrench"
+    },
+    {
+        "input": "What does DRD1S_09_Operation9_1 act on?",
+        "output": "Locknut"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation9_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation9_1?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Adjusting_Screw?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Adjusting_Screw_Base?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Conical_Valve_Core?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Torque_Wrench?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Locknut?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does DRD1S_09_Operation2_1 act on?",
+        "output": "Valve_Sleeve"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation2_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What is the action performed in DRD1S_09_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Valve_Sleeve?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Step1?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Step4?",
+        "output": "Retaining_Ring_and_O-ring_positions_must_not_be_reversed_or_misaligned"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Step5?",
+        "output": "Core_must_not_jam_in_valve_seat"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Step6?",
+        "output": "Check_spring_seat_direction"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Step7?",
+        "output": "Screw_base_threaded_end_faces_downward"
+    },
+    {
+        "input": "What detail is given for DRD1S_09_Step9?",
+        "output": "Locknut_must_not_be_reversed"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation3_1?",
+        "output": "DRD1S_09_Operation3_2"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation5_1?",
+        "output": "DRD1S_09_Operation5_2"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation6_1?",
+        "output": "DRD1S_09_Operation6_2"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation7_1?",
+        "output": "DRD1S_09_Operation7_2"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation8_1?",
+        "output": "DRD1S_09_Operation8_2"
+    },
+    {
+        "input": "Which operation does DRD1S_09_Step1 have?",
+        "output": "DRD1S_09_Operation1_1"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step1?",
+        "output": "DRD1S_09_Step2"
+    },
+    {
+        "input": "Which operation does DRD1S_09_Step2 have?",
+        "output": "DRD1S_09_Operation2_1"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step2?",
+        "output": "DRD1S_09_Step3"
+    },
+    {
+        "input": "Which operations does DRD1S_09_Step3 have?",
+        "output": "DRD1S_09_Operation3_1, DRD1S_09_Operation3_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step3?",
+        "output": "DRD1S_09_Step4"
+    },
+    {
+        "input": "Which operation does DRD1S_09_Step4 have?",
+        "output": "DRD1S_09_Operation4_1"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step4?",
+        "output": "DRD1S_09_Step5"
+    },
+    {
+        "input": "Which operations does DRD1S_09_Step5 have?",
+        "output": "DRD1S_09_Operation5_1, DRD1S_09_Operation5_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step5?",
+        "output": "DRD1S_09_Step6"
+    },
+    {
+        "input": "Which operations does DRD1S_09_Step6 have?",
+        "output": "DRD1S_09_Operation6_1, DRD1S_09_Operation6_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step6?",
+        "output": "DRD1S_09_Step7"
+    },
+    {
+        "input": "Which operations does DRD1S_09_Step7 have?",
+        "output": "DRD1S_09_Operation7_1, DRD1S_09_Operation7_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step7?",
+        "output": "DRD1S_09_Step8"
+    },
+    {
+        "input": "Which operations does DRD1S_09_Step8 have?",
+        "output": "DRD1S_09_Operation8_1, DRD1S_09_Operation8_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step8?",
+        "output": "DRD1S_09_Step9"
+    },
+    {
+        "input": "Which operation does DRD1S_09_Step9 have?",
+        "output": "DRD1S_09_Operation9_1"
+    },
+    {
+        "input": "What does DRD1S_09_Operation1_1 act on?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation1_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does DRD1S_09_Operation1_1 perform?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation3_1 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation3_1?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation3_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail is associated with DRD1S_09_Operation3_1?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does DRD1S_09_Operation3_2 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation3_2?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation3_2?",
+        "output": "push"
+    },
+    {
+        "input": "What detail is associated with DRD1S_09_Operation3_2?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "Which tool is used by DRD1S_09_Operation3_2?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does DRD1S_09_Operation4_1 act on?",
+        "output": "Retaining_Ring"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation4_1?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation4_1?",
+        "output": "insert"
+    },
+    {
+        "input": "What does DRD1S_09_Operation5_1 act on?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation5_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation5_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation5_2 act on?",
+        "output": "Conical_Valve_Core"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation5_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation6_1 act on?",
+        "output": "Spring"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation6_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation6_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation6_2 act on?",
+        "output": "Spring_Seat"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation6_2?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation6_2?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation7_1 act on?",
+        "output": "Adjusting_Screw_Base"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation7_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation7_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does DRD1S_09_Operation7_2 act on?",
+        "output": "Adjusting_Screw_Base"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation7_2?",
+        "output": "Adjusting_Screw"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation7_2?",
+        "output": "screw"
+    },
+    {
+        "input": "What does DRD1S_09_Operation8_1 act on?",
+        "output": "Adjusting_Screw_Base"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation8_1?",
+        "output": "Valve_Seat"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation8_1?",
+        "output": "screw"
+    },
+    {
+        "input": "What does DRD1S_09_Operation8_2 act on?",
+        "output": "Adjusting_Screw_Base"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation8_2?",
+        "output": "torque"
+    },
+    {
+        "input": "What detail is associated with DRD1S_09_Operation8_2?",
+        "output": "35-40NM"
+    },
+    {
+        "input": "Which tool is used by DRD1S_09_Operation8_2?",
+        "output": "Torque_Wrench"
+    },
+    {
+        "input": "What does DRD1S_09_Operation9_1 act on?",
+        "output": "Locknut"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation9_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation9_1?",
+        "output": "place"
+    },
+    {
+        "input": "What type is Adjusting_Screw?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Adjusting_Screw_Base?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Conical_Valve_Core?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Torque_Wrench?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Spring?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Locknut?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Seat?",
+        "output": "graspable"
+    },
+    {
+        "input": "What does DRD1S_09_Operation2_1 act on?",
+        "output": "Valve_Sleeve"
+    },
+    {
+        "input": "What is the target of DRD1S_09_Operation2_1?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed by DRD1S_09_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "What detail does DRD1S_09_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does DRD1S_09_Step4 have?",
+        "output": "Retaining_Ring_and_O-ring_positions_must_not_be_reversed_or_misaligned"
+    },
+    {
+        "input": "What detail does DRD1S_09_Step5 have?",
+        "output": "Core_must_not_jam_in_valve_seat"
+    },
+    {
+        "input": "What detail does DRD1S_09_Step6 have?",
+        "output": "Check_spring_seat_direction"
+    },
+    {
+        "input": "What detail does DRD1S_09_Step7 have?",
+        "output": "Screw_base_threaded_end_faces_downward"
+    },
+    {
+        "input": "What detail does DRD1S_09_Step9 have?",
+        "output": "Locknut_must_not_be_reversed"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step1?",
+        "output": "DRD1S_09_Operation1_1"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step1?",
+        "output": "DRD1S_09_Step2"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step2?",
+        "output": "DRD1S_09_Operation2_1"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step2?",
+        "output": "DRD1S_09_Step3"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step3?",
+        "output": "DRD1S_09_Operation3_1, DRD1S_09_Operation3_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step3?",
+        "output": "DRD1S_09_Step4"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step4?",
+        "output": "DRD1S_09_Operation4_1"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step4?",
+        "output": "DRD1S_09_Step5"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step5?",
+        "output": "DRD1S_09_Operation5_1, DRD1S_09_Operation5_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step5?",
+        "output": "DRD1S_09_Step6"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step6?",
+        "output": "DRD1S_09_Operation6_1, DRD1S_09_Operation6_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step6?",
+        "output": "DRD1S_09_Step7"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step7?",
+        "output": "DRD1S_09_Operation7_1, DRD1S_09_Operation7_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step7?",
+        "output": "DRD1S_09_Step8"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step8?",
+        "output": "DRD1S_09_Operation8_1, DRD1S_09_Operation8_2"
+    },
+    {
+        "input": "Which step follows DRD1S_09_Step8?",
+        "output": "DRD1S_09_Step9"
+    },
+    {
+        "input": "Which operations are included in DRD1S_09_Step9?",
+        "output": "DRD1S_09_Operation9_1"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation3_1?",
+        "output": "DRD1S_09_Operation3_2"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation5_1?",
+        "output": "DRD1S_09_Operation5_2"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation6_1?",
+        "output": "DRD1S_09_Operation6_2"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation7_1?",
+        "output": "DRD1S_09_Operation7_2"
+    },
+    {
+        "input": "Which operation follows DRD1S_09_Operation8_1?",
+        "output": "DRD1S_09_Operation8_2"
+    }
+]

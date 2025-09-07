@@ -1,0 +1,354 @@
+[
+    {
+        "input": "What does HTCV08U_H0A_Operation1_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTCV08U_H0A_Operation1_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation1_2 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action is performed in HTCV08U_H0A_Operation1_2?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Operation1_2 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation1_3 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation1_3 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action is performed in HTCV08U_H0A_Operation1_3?",
+        "output": "push"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Operation1_3 have?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "What tool does HTCV08U_H0A_Operation1_3 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation2_1 act on?",
+        "output": "Valve_Shell"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTCV08U_H0A_Operation2_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation3_1 act on?",
+        "output": "Threadlocker"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation3_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action is performed in HTCV08U_H0A_Operation3_1?",
+        "output": "place"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation4_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation4_1 act to?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action is performed in HTCV08U_H0A_Operation4_1?",
+        "output": "tighten"
+    },
+    {
+        "input": "What does HTCV08U_H0A_Operation4_2 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Where is HTCV08U_H0A_Operation4_2 performed at?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action is performed in HTCV08U_H0A_Operation4_2?",
+        "output": "torque"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Operation4_2 have?",
+        "output": "15-20NM"
+    },
+    {
+        "input": "What tool does HTCV08U_H0A_Operation4_2 use?",
+        "output": "Torque_Wrench"
+    },
+    {
+        "input": "What type is Plug?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is O_Ring_Guide?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Valve_Shell?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Threadlocker?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type is Torque_Wrench?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Step2 have?",
+        "output": "Do_not_omit_Steel_Ball"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Step4 have?",
+        "output": "Sealant_even,_no_overflow"
+    },
+    {
+        "input": "Which operations are included in HTCV08U_H0A_Step1?",
+        "output": "HTCV08U_H0A_Operation1_1, HTCV08U_H0A_Operation1_2, HTCV08U_H0A_Operation1_3"
+    },
+    {
+        "input": "Which operations are included in HTCV08U_H0A_Step2?",
+        "output": "HTCV08U_H0A_Operation2_1"
+    },
+    {
+        "input": "Which operations are included in HTCV08U_H0A_Step3?",
+        "output": "HTCV08U_H0A_Operation3_1"
+    },
+    {
+        "input": "Which operations are included in HTCV08U_H0A_Step4?",
+        "output": "HTCV08U_H0A_Operation4_1, HTCV08U_H0A_Operation4_2"
+    },
+    {
+        "input": "What operation follows HTCV08U_H0A_Operation1_1?",
+        "output": "HTCV08U_H0A_Operation1_2"
+    },
+    {
+        "input": "What operation follows HTCV08U_H0A_Operation1_2?",
+        "output": "HTCV08U_H0A_Operation1_3"
+    },
+    {
+        "input": "What operation follows HTCV08U_H0A_Operation4_1?",
+        "output": "HTCV08U_H0A_Operation4_2"
+    },
+    {
+        "input": "What step follows HTCV08U_H0A_Step1?",
+        "output": "HTCV08U_H0A_Step2"
+    },
+    {
+        "input": "What step follows HTCV08U_H0A_Step2?",
+        "output": "HTCV08U_H0A_Step3"
+    },
+    {
+        "input": "What step follows HTCV08U_H0A_Step3?",
+        "output": "HTCV08U_H0A_Step4"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation1_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation1_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTCV08U_H0A_Operation1_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation1_2 act on?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation1_2 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action does HTCV08U_H0A_Operation1_2 have?",
+        "output": "insert"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Operation1_2 have?",
+        "output": "appropriate_guide_sleeve"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation1_3 act on?",
+        "output": "O-Ring"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation1_3 act to?",
+        "output": "Plug"
+    },
+    {
+        "input": "What action does HTCV08U_H0A_Operation1_3 have?",
+        "output": "push"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Operation1_3 have?",
+        "output": "correct_slot"
+    },
+    {
+        "input": "Which tool does HTCV08U_H0A_Operation1_3 use?",
+        "output": "O_Ring_Guide"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation2_1 act on?",
+        "output": "Valve_Shell"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation2_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTCV08U_H0A_Operation2_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation3_1 act on?",
+        "output": "Threadlocker"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation3_1 act to?",
+        "output": "Workbench"
+    },
+    {
+        "input": "What action does HTCV08U_H0A_Operation3_1 have?",
+        "output": "place"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation4_1 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation4_1 act to?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action does HTCV08U_H0A_Operation4_1 have?",
+        "output": "tighten"
+    },
+    {
+        "input": "Which entity does HTCV08U_H0A_Operation4_2 act on?",
+        "output": "Plug"
+    },
+    {
+        "input": "Where does HTCV08U_H0A_Operation4_2 occur?",
+        "output": "Torque_Clamping_Fixture"
+    },
+    {
+        "input": "What action does HTCV08U_H0A_Operation4_2 have?",
+        "output": "torque"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Operation4_2 have?",
+        "output": "15-20NM"
+    },
+    {
+        "input": "Which tool does HTCV08U_H0A_Operation4_2 use?",
+        "output": "Torque_Wrench"
+    },
+    {
+        "input": "What type does Plug have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does O_Ring_Guide have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Valve_Shell have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Threadlocker have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What type does Torque_Wrench have?",
+        "output": "graspable"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Step1 have?",
+        "output": "Use_guide_sleeve"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Step2 have?",
+        "output": "Do_not_omit_Steel_Ball"
+    },
+    {
+        "input": "What detail does HTCV08U_H0A_Step4 have?",
+        "output": "Sealant_even,_no_overflow"
+    },
+    {
+        "input": "Which operation(s) does HTCV08U_H0A_Step1 have?",
+        "output": "HTCV08U_H0A_Operation1_1, HTCV08U_H0A_Operation1_2, HTCV08U_H0A_Operation1_3"
+    },
+    {
+        "input": "Which operation(s) does HTCV08U_H0A_Step2 have?",
+        "output": "HTCV08U_H0A_Operation2_1"
+    },
+    {
+        "input": "Which operation(s) does HTCV08U_H0A_Step3 have?",
+        "output": "HTCV08U_H0A_Operation3_1"
+    },
+    {
+        "input": "Which operation(s) does HTCV08U_H0A_Step4 have?",
+        "output": "HTCV08U_H0A_Operation4_1, HTCV08U_H0A_Operation4_2"
+    },
+    {
+        "input": "What is the next operation after HTCV08U_H0A_Operation1_1?",
+        "output": "HTCV08U_H0A_Operation1_2"
+    },
+    {
+        "input": "What is the next operation after HTCV08U_H0A_Operation1_2?",
+        "output": "HTCV08U_H0A_Operation1_3"
+    },
+    {
+        "input": "What is the next operation after HTCV08U_H0A_Operation4_1?",
+        "output": "HTCV08U_H0A_Operation4_2"
+    },
+    {
+        "input": "What is the next step after HTCV08U_H0A_Step1?",
+        "output": "HTCV08U_H0A_Step2"
+    },
+    {
+        "input": "What is the next step after HTCV08U_H0A_Step2?",
+        "output": "HTCV08U_H0A_Step3"
+    },
+    {
+        "input": "What is the next step after HTCV08U_H0A_Step3?",
+        "output": "HTCV08U_H0A_Step4"
+    }
+]
