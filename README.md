@@ -1,4 +1,4 @@
-# AssemMate
+# AssemMate: Graph-Based LLM for Robotic Assembly Assistance
 
 The complete ICRA 2026 code will be released soon.  
 
