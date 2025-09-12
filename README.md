@@ -26,7 +26,7 @@ python infer_and_eval.py \
     --model_name=<PATH_TO_BASE_MODEL> \
     --projector_ckpt_path=<PATH_TO_PROJECTOR_WEIGHTS> \
     --struct_dir=<PATH_TO_KG_DIRECTORY> \  
-    # nonexistent_data/test1/kg
+    # random_data/test1/kg
     --qa_dir=<PATH_TO_QA_DIRECTORY>        
-    # nonexistent_data/test1/qa
+    # random_data/test1/qa
 ```
