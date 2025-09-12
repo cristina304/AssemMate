@@ -2,7 +2,7 @@
 
 The complete ICRA 2026 code will be released soon.  
 
-Meanwhile, a demo is available. **Due to data confidentiality, only non-existent test data is provided.**  
+Meanwhile, a demo is available. **Due to data confidentiality, only random graphs test data is provided.**  
 
 ### Downloads
 
